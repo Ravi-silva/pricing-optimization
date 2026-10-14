@@ -1,0 +1,11 @@
+# Ambiente virtual
+.venv/
+
+# Outras versões do notebook (mantidas apenas localmente)
+Price+Optimization+based+on+price+elasticity - Copia.ipynb
+Price+Optimization+based+on+price+elasticity.ipynb.bak
+V2_Price+Optimization+based+on+price+elasticity.ipynb
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
